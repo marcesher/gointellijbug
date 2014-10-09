@@ -3,6 +3,8 @@
 in main.go, importing a subpackage is not recognized as a valid import, and consequently package navigation does not work
 as expected
 
+![screenshot](screenshot.png)
+
 # Actual behavior
 
 given main.go:
